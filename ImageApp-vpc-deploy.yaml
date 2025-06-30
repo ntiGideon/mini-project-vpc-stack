@@ -1,0 +1,4 @@
+template-file-path: vpc.yaml
+parameters:
+  EnvironmentName: ImageApp
+tags: {}
